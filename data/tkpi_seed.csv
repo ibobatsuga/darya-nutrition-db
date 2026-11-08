@@ -1,0 +1,71 @@
+code,name,group,type,bdd_pct,water_g,energy_kcal,protein_g,carbs_g,fat_g,fiber_g,sugar_g,sodium_mg,calcium_mg,iron_mg,vitamin_c_mg,source,source_ref,aliases
+AP001,Nasi,Serealia,Olahan,100,56.7,180,3,39.8,0.3,0.2,,1,25,0.4,,TKPI 2019,KZGPI-1990,nasi putih
+AP002,Nasi tim,Serealia,Olahan,100,71,120,2.4,26,0.4,0.5,,,3,0.4,,TKPI 2019,OKN-1992,
+AP003,Tapai beras,Serealia,Olahan,100,75.5,99,1.7,22.4,0.3,,,26,4,,,TKPI 2019,KZGMI-2001,
+AP004,"Tepung beras, mentah",Serealia,Olahan,100,12,353,7,80,0.5,2.4,,5,5,0.8,,TKPI 2019,DABM-1964,
+AP005,Nasi beras merah,Serealia,Olahan,100,64,149,2.8,32.5,0.4,0.3,,5,6,0.8,,TKPI 2019,KZGPI-1990,
+AP006,"Bihun, mentah",Serealia,Olahan,100,12.9,348,4.7,82.1,0.1,1.2,,12,6,1.8,0.2,TKPI 2019,DABM-1964,
+AP007,Bihun goreng instan,Serealia,Olahan,100,9,381,6.1,80.3,3.9,,,928,266,2.9,,TKPI 2019,KZGMS-1993,
+AP008,"Bihun jagung, mentah",Serealia,Olahan,100,11.3,354,0.5,87.4,0.3,3,,49,13,0.6,0.2,TKPI 2019,BKP,
+AP009,Nasi jagung,Serealia,Olahan,100,11,357,8.8,79.5,0.5,6.2,,2,5,0.6,0.1,TKPI 2019,BKP,
+AP010,"Jagung muda, rebus",Serealia,Olahan,100,53.2,142,5,30.3,0.7,0.8,,5,5,0.8,,TKPI 2019,KZGPI-1990,
+AP011,"Jagung kuning, tepung",Serealia,Olahan,100,12,355,9.2,73.7,3.9,7.2,,11,10,2.4,,TKPI 2019,DABM-1964,
+AP012,"Jagung kuning pipil, rebus",Serealia,Olahan,100,63.7,154,3.8,28.4,3.5,0.7,,5,7,0.5,,TKPI 2019,KZGPI-1990,
+AP015,"Ketan hitam, matang",Serealia,Olahan,100,56.9,181,4,37.3,1.2,0.3,,9,9,1.7,,TKPI 2019,KZGPI-1990,
+AP017,"Ketan putih, matang",Serealia,Olahan,100,60.7,163,3,35.7,0.4,0.2,,8,4,0.7,,TKPI 2019,KZGPI-1990,
+AP018,Tapai ketan putih,Serealia,Olahan,100,58.9,172,3,37.5,0.5,0.6,,1,6,0.5,,TKPI 2019,KZGPI-1990,
+AP020,"Makaroni, mentah",Serealia,Olahan,100,11.7,353,8.7,78.7,0.4,4.9,,5,20,0.3,,TKPI 2019,DABM-1964,
+AP021,Mi basah,Serealia,Olahan,100,80,88,0.6,14,3.3,0.1,,63,14,6.8,,TKPI 2019,DABM-1964,
+AP023,Misoa,Serealia,Olahan,100,10,345,8.5,78,2.2,0.5,,3064,52,8.7,,TKPI 2019,KZGPI-1990,
+AP025,Tepung terigu,Serealia,Olahan,100,11.8,333,9,77.2,1,0.3,,2,22,6.3,,TKPI 2019,KZGPI-1990,
+AP029,Biskuit,Serealia,Olahan,100,2.2,458,6.9,75.1,14.4,2.1,,241,62,2.7,,TKPI 2019,DABM-1964,
+AP030,"Bakpia, kue",Serealia,Olahan,100,38.9,272,8.7,44.1,6.7,0.9,,,194,4.5,,TKPI 2019,KZGPI-1990,
+AP031,Bakwan,Serealia,Olahan,100,40.5,280,8.2,39,10.2,3.4,,,204,7,,TKPI 2019,KZGPI-1990,
+AP060,Ketoprak,Serealia,Olahan,100,69.1,153,7.9,13,7.7,2.9,,,153,3.4,,TKPI 2019,KZGPI-1990,
+AP085,Mie ayam,Serealia,Olahan,100,78.6,102,6.2,10.5,3.9,,,279,262,1.8,,TKPI 2019,KZGMS-1993,
+AP086,Mie bakso,Serealia,Olahan,100,74.5,114,5.3,16.4,3,0.1,,760,286,1.9,,TKPI 2019,KZGMS-1993,
+AP089,Nasi gemuk,Serealia,Olahan,100,61.4,192,3.8,24.4,8.8,0.7,,355,15,1,,TKPI 2019,KZGMI-2001,
+AP090,Nasi gurih,Serealia,Olahan,100,60.5,190,4.7,26,7.5,0.7,,296,12,0.8,,TKPI 2019,KZGMI-2001,
+AP092,Nasi rames,Serealia,Olahan,100,65.8,155,10.3,19.1,4.2,,,265,239,1.8,,TKPI 2019,KZGMS-1993,
+AP106,Spaghetti,Serealia,Olahan,100,66.1,139,7.4,22.6,2.1,,,,109,4.7,,TKPI 2019,KZGMS-1993,
+AR001,"Beras giling, mentah",Serealia,Tunggal,100,12,357,8.4,77.1,1.7,0.2,,27,147,1.8,,TKPI 2019,KZGMI-2001,
+BP002,"Batatas kelapa, ubi, kukus",Umbi,Olahan,100,75.7,92,1.2,21,0.3,4.1,,10,,0.2,,TKPI 2019,KZGMI-2001,
+BP008,Ketela pohon/singkong kukus,Umbi,Olahan,100,61.5,153,1.2,36.4,0.3,1.3,,2,56,0.4,20,TKPI 2019,KZGPI-1990,singkong kukus
+BP010,"Talas bogor, kukus",Umbi,Olahan,100,69.2,120,1.5,28.2,0.3,0.7,,11,31,0.7,2,TKPI 2019,KZGPI-1990,
+BP036,Keripik kentang,Umbi,Olahan,100,7.8,448,2.7,67.1,18.8,3.8,,712,25,1.2,,TKPI 2019,KZGMI-2001,
+BR013,"Kentang, segar",Umbi,Tunggal,85,83.4,62,2.1,13.5,0.2,0.5,,7,63,0.7,21,TKPI 2019,KZGPI-1990,kentang
+CP012,"Kacang tanah, goreng",Kacang,Olahan,100,2.5,564,25.5,25.5,44.4,2.8,,,106,4.1,,TKPI 2019,KZGPI-1990,
+CP013,"Kacang tanah, rebus",Kacang,Olahan,100,62.1,220,10.6,8,18,1,,36,89,1.9,,TKPI 2019,KZGPI-1990,
+CP016,"Ampas tahu, mentah",Kacang,Olahan,100,84.1,67,5,8.1,2.1,4.1,,8,460,1,,TKPI 2019,KZGPI-1990,
+CP037,Kembang tahu,Kacang,Olahan,100,10.8,380,48.9,23.3,13.8,,,55,378,2.1,,TKPI 2019,KZGPI-1990,
+CP061,"Tahu, mentah",Kacang,Olahan,100,82.2,80,10.9,0.8,4.7,0.1,,2,223,3.4,,TKPI 2019,KZGPI-1990,tahu
+CP062,Tahu goreng,Kacang,Olahan,100,77.3,115,9.7,2.5,8.5,0.1,,7,229,4.1,,TKPI 2019,KZGPI-1990,
+CP076,"Tempe kedelai murni, goreng",Kacang,Olahan,100,36.8,350,24.5,10.4,26.6,4.2,,22,202,4.9,,TKPI 2019,KZGPI-1990,tempe goreng
+CP077,"Tempe kedelai murni, mentah",Kacang,Olahan,100,55.3,201,20.8,13.5,8.8,1.4,,9,155,4,,TKPI 2019,KZGPI-1990,tempe
+CP082,Tempe pasar,Kacang,Olahan,100,68.3,150,14,9.1,7.7,1.4,,7,517,1.5,,TKPI 2019,KZGPI-1990,
+CP083,Tempe pasar goreng,Kacang,Olahan,100,42.9,336,20,7.8,28,3.4,,20,156,3,,TKPI 2019,KZGPI-1990,
+CR032,"Kacang tanah, kering",Kacang,Tunggal,100,9.6,525,27.9,17.4,42.7,2.4,,31,316,5.7,,TKPI 2019,KZGPI-1990,kacang tanah
+DP001,"Bayam, kukus",Sayur,Olahan,100,90.7,30,1.3,5.8,0.7,1.2,,15,239,5.7,32,TKPI 2019,KZGPI-1990,
+DP002,"Bayam, rebus",Sayur,Olahan,100,93.5,23,1.2,3.7,0.6,1.1,,16,150,0.5,19,TKPI 2019,KZGPI-1990,
+DP020,"Wortel, rebus",Sayur,Olahan,100,92.1,28,0.7,6.3,0.5,0.8,,41,46,0.6,12,TKPI 2019,KZGPI-1990,
+DP021,"Wortel, kukus",Sayur,Olahan,100,89.5,37,1,8.3,0.6,1.1,,43,44,0.6,14,TKPI 2019,KZGPI-1990,
+DR008,"Bayam, segar",Sayur,Tunggal,71,94.5,16,0.9,2.9,0.4,0.7,,16,166,3.5,41,TKPI 2019,KZGPI-1990,bayam
+DR166,"Wortel, segar",Sayur,Tunggal,80,89.9,36,1,7.9,0.6,1,,70,45,1,18,TKPI 2019,KZGPI-1990,wortel
+FP001,"Ayam, ampela, goreng",Daging,Olahan,100,4.8,270,32.3,9.9,11.2,,,980,129,4.9,,TKPI 2019,KZGMS-1993,
+FP002,"Ayam, usus, goreng",Daging,Olahan,100,4.6,473,45.2,13.9,26.3,,,,1407,8.4,,TKPI 2019,KZGPI-1990,
+FP024,"Ayam goreng kalasan, paha",Daging,Olahan,100,46.2,275,37.4,1.3,12.2,,,176,116,5.8,,TKPI 2019,KZGPI-1990,
+FP025,"Ayam goreng kentucky, dada",Daging,Olahan,100,46.5,298,34.2,0.1,16.8,,,741,90,5.5,,TKPI 2019,KZGPI-1990,ayam goreng
+FP026,"Ayam goreng kentucky, paha",Daging,Olahan,100,48.7,286,32.1,1.1,16.1,,,746,89,6.9,,TKPI 2019,KZGPI-1990,
+FP027,"Ayam goreng kentucky, sayap",Daging,Olahan,100,44.7,297,35.9,1.6,15.2,,,807,103,4.4,,TKPI 2019,KZGPI-1990,
+FP034,"Ayam taliwang, masakan",Daging,Olahan,100,57.5,264,18.2,2.7,20.1,,,507,94,2,,TKPI 2019,KZGMI-2001,
+FR005,"Ayam, daging, segar",Daging,Tunggal,58,55.9,298,18.2,,25,,,109,14,1.5,,TKPI 2019,DABM-1964,ayam
+GP005,"Ikan bandeng presto, masakan",Ikan,Olahan,100,45.3,296,17.1,11.3,20.3,,,,1422,1.9,69,TKPI 2019,KZGPI-1990,
+GP090,Sate bandeng,Ikan,Olahan,82,47.1,283,12.1,20.9,16.8,2,,543,118,1.2,0.3,TKPI 2019,BKP,
+GP094,Tumis bandeng,Ikan,Olahan,,70.5,189,11.3,0.6,15.7,,,314,56,0.4,,TKPI 2019,KZGMI-2001,
+GR004,"Ikan bandeng, segar",Ikan,Tunggal,,74,123,20,,4.8,,,67,20,2,,TKPI 2019,DABM-1964,bandeng
+HP001,"Telur ayam, dadar, masakan",Telur,Olahan,100,61.9,251,16.3,1.4,19.4,,,,62,2.5,,TKPI 2019,KZGPI-1990,telur dadar
+HR001,"Telur ayam kampung, segar",Telur,Tunggal,87,73.1,174,10.8,1.2,14,,,190,68,4.9,,TKPI 2019,KZGMI-2001,
+HR002,"Telur ayam ras, segar",Telur,Tunggal,89,74.3,154,12.4,0.7,10.8,,,142,86,3,,TKPI 2019,KZGPI-1990,telur;telur ayam
+HR003,"Telur ayam ras, bagian kuning, segar",Telur,Tunggal,100,49.4,355,16.3,0.7,31.9,,,111,147,7.2,,TKPI 2019,DABM-1964,
+HR004,"Telur ayam ras, bagian putih, segar",Telur,Tunggal,100,87.8,50,10.8,0.8,,,,164,6,0.2,,TKPI 2019,DABM-1964,
+ER076,"Pisang ayam, segar",Buah,Tunggal,75,71.2,120,1.1,26.8,0.2,4.1,,6,20,0.4,26,TKPI 2019,KZGMI-2001,pisang

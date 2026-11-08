@@ -1,0 +1,8 @@
+# Secrets — jangan pernah commit file-file ini
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+data/exercises/images/

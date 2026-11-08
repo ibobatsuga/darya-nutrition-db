@@ -1,0 +1,9 @@
+Kode di repo ini (script + skema SQL) bebas dipakai untuk aplikasi Darya Varia.
+
+Data di repo ini berasal dari sumber-sumber berikut, masing-masing dengan
+lisensinya sendiri (lihat SOURCES.md):
+- TKPI 2019 — Kementerian Kesehatan RI
+- USDA FoodData Central — CC0 (domain publik)
+- Open Food Facts — ODbL (share-alike)
+- free-exercise-db — Unlicense (domain publik)
+- wger (fallback via API, tidak di-vendor) — CC-BY-SA, wajib atribusi
